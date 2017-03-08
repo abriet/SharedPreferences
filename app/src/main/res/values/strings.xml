@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="salvar_senha">Salvar senha.</string>
+    <string name="logar">LOGAR</string>
+    <string name="usuario_incorreto">Verifique o usuário e senha.</string>
+    <string name="dados">Dados</string>
+</resources>
